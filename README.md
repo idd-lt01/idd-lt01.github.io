@@ -19,3 +19,10 @@ Show case beautiful work by graduated students (portfolio websites, photos physi
 > “The program and the research projects at George Brown helped me learn various aspects of interaction design and look at the problems from various angles. I have gained vast knowledge not only in interaction design but also in human-centered design. George Brown helped me break the shell and encouraged me to be a leader in finding better design solutions.”
 *Claire Hyeeun Son (Graduate 2018, Interaction Design and Development); Digital Media Designer, RBC*
 - Introduce Instructors from the "Design and/or Tech" Industry 
+
+Inspiration: https://calarts.edu/admissions/apply/veterans
+
+What I liked:
+- Simple colour scheme 
+- Layout was similar to print layouts as if they webpage was meant to be printed 
+- Information was easy to read and navigation is straight forward
