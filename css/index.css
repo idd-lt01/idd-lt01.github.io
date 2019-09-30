@@ -5,11 +5,12 @@ html {
 	--primary-b: #c2c2c2;
 	--secondary-a: #b1b1b1;
 	--secondary-b: #b2b2b2;
-	--error-1: #e87400;
+	--accent-1: #e87400;
 }
 
 body {
-	background-color: lightgrey;
+	background-color: var(--background);
+	color: var(--primary-a);
 	font-weight: normal;
 	font-style: normal;
 	font-size: 1em;
@@ -20,7 +21,14 @@ p {
 	margin: 1em 0;
 }
 
+.testimonial {
+	color: var(--secondary-a);
+	text-transform: italic;
+}
 h1, h2, h3 {
-	text-transform: uppercase, underline;
+	text-transform: uppercase;
 }
 
+a, footer {
+	color: var(--accent-1);
+}
