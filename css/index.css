@@ -1,3 +1,13 @@
+html {
+	/* font, colours, backgrounds */
+	--background: #000;
+	--primary-a: #c1c1c1;
+	--primary-b: #c2c2c2;
+	--secondary-a: #b1b1b1;
+	--secondary-b: #b2b2b2;
+	--error-1: #e87400;
+}
+
 body {
 	background-color: lightgrey;
 	font-weight: normal;
@@ -5,3 +15,12 @@ body {
 	font-size: 1em;
 	font-family: helvetica, arial, sans-serif;
 }
+
+p {
+	margin: 1em 0;
+}
+
+h1, h2, h3 {
+	text-transform: uppercase, underline;
+}
+
