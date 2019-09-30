@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
 html {
 	/* font, colours, backgrounds */
 	--background: #000;
@@ -11,10 +13,7 @@ html {
 body {
 	background-color: var(--background);
 	color: var(--primary-a);
-	font-weight: normal;
-	font-style: normal;
-	font-size: 1em;
-	font-family: helvetica, arial, sans-serif;
+	font: normal normal 1em/1 'Roboto', arial, sans-serif;
 }
 
 p {
@@ -23,7 +22,7 @@ p {
 
 .testimonial {
 	color: var(--secondary-a);
-	text-transform: italic;
+	text-decoration: italic;
 }
 h1, h2, h3 {
 	text-transform: uppercase;

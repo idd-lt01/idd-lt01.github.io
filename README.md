@@ -36,4 +36,17 @@ Layout was similar to print layouts as if they webpage was meant to be printed
 Information was easy to read and navigation is straight forward
 
 Design Guide:
-...
+
+CSS Colours
+
+--background: #000;
+--primary-a: #c1c1c1;
+--primary-b: #c2c2c2;
+--secondary-a: #b1b1b1;
+--secondary-b: #b2b2b2;
+--accent-1: #e87400;
+
+Program Information References: 
+
+https://www.georgebrown.ca/uploadedfiles/Program_Roadmap/2018-2019/Arts,%20Design%20and%20Information%20Technology/G103-2018-2019.pdf
+Referenced on: September 30 2019
