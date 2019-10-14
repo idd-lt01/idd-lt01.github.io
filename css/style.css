@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=VT323&display=swap');
 
 html {
 	/* font, colours, backgrounds */
@@ -21,9 +22,13 @@ html {
 .header-container, .program-title, .footer-container, .definition-container {
 	width: 100%;
 	max-width: 800px;
-
 	margin: auto;
 }
+
+.definition-container {
+	line-height: 1;
+}
+
 .schoolofdesign-header {
 	border: #fff 0.3em solid;
 }
@@ -44,12 +49,16 @@ html {
 	font-size: 1.5em;
 }
 
+.styled-def {
+	font: normal normal 1.5em/1 'VT323', monospace;
+}
+
 .def-nav-container {
 	width: 100%;
 	max-width: 800px;
-
 	margin: auto;
 }
+
 .one {
 	background-color: var(--accent-1); 
 }
@@ -65,9 +74,7 @@ html {
 .program-descrip-container {
 	width: 100%;
 	max-width: 800px;
-
 	margin: auto;
-
 	background-color: var(--accent-4);
 }
 .program-description {
@@ -89,7 +96,6 @@ body, html {
 .program-info-container {
 	width: 100%;
 	max-width: 800px;
-
 	margin-left: auto;
 	margin-right: auto;
 	background-color: var(--whiteblock);

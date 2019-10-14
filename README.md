@@ -1,7 +1,7 @@
 # George Brown Interaction Design and Development Website Redesign in favour for future students
 
 
-Design Guide:
+#Design Guide:
 
 CSS Colours
 	--background: #313156;
@@ -16,14 +16,13 @@ CSS Colours
 	--whiteblock-text: #000;
 
 
-Program Information References: 
+Program Information References and Other: 
 
 https://www.georgebrown.ca/uploadedfiles/Program_Roadmap/2018-2019/Arts,%20Design%20and%20Information%20Technology/G103-2018-2019.pdf
 Referenced on: September 30 2019
 
 https://www.georgebrown.ca/giving/school-of-design-investment-brochure.pdf
 Referenced: October 14 2019
-
 
 Definitions from Google, and https://www.sid-israel.org/en/Development-Issues/What-is-Development
 
