@@ -3,12 +3,8 @@
 html {
 	/* font, colours, backgrounds */
 	--background: #313156;
-	--secondary-background: #fff;
 	--header-image-bg: #0a5093;
 	--primary-a: #c1c1c1;
-	--primary-b: #c2c2c2;
-	--secondary-a: #b1b1b1;
-	--secondary-b: #b2b2b2;
 	--accent-1: #e87400;
 	--accent-2: #fdc20b;
 	--accent-3: #6260AA;
@@ -172,15 +168,35 @@ a {
 	color: #fff;
 }
 
+
+.apply-button {
+	background-color: var(--accent-2); 
+	border: none;
+	border-radius: 4px;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 1.5em;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+
+.apply-button:hover {
+	background-color: var(--accent-1); 
+	color: white;
+  }
+
 footer {
 	color: var(--accent-1);
 	padding: 1.5em 1.5em;
 }
 
 .schoolofdesign-footer-image {
-	border: #fff 0.2em solid;
 	max-width: 800px;
 	width: 100%;
+	padding-top: 5em;
 }
 
 /*smaller than or equal to 768px. */
