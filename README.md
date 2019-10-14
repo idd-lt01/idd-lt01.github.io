@@ -6,7 +6,6 @@ Another main design component of my redesign was to explore Interaction, Design,
 In my first year at George brown, and to this day, we discuss what it means to be an Interaction Designer; 
 And I think that exploring each word and its meaning can provide someone an understanding of what it means. 
 
-
 # Design Guide:
 
 CSS Colours
@@ -21,6 +20,8 @@ CSS Colours
 	--whiteblock: #fff;
 	--whiteblock-text: #000;
 
+I chose colours directly from the George Brown website. 
+I focused on using Purple because it is the designated colour for the School of Design provided on the Main GBC website. 
 
 # Program Information References and Other: 
 
