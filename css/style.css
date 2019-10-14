@@ -4,7 +4,6 @@ html {
 	/* font, colours, backgrounds */
 	--background: #313156;
 	--secondary-background: #fff;
-	--header-nav: #0a5093;
 	--header-image-bg: #0a5093;
 	--primary-a: #c1c1c1;
 	--primary-b: #c2c2c2;
@@ -14,6 +13,7 @@ html {
 	--accent-2: #fdc20b;
 	--accent-3: #6260AA;
 	--accent-4: #2AA9E0;
+	--accent-5: #0a5093;
 	--whiteblock: #fff;
 	--whiteblock-text: #000;
 }
@@ -103,6 +103,8 @@ body, html {
 	width: 33.3%;
 	height: auto;
 	float: left;
+	color: var(--whiteblock);
+	line-height: 1.4;
 }
 
 .p-info-1 {
@@ -111,10 +113,12 @@ body, html {
 
 .p-info-2 {
 	background-color: var(--accent-2);
+	color: var(--whiteblock-text);
 }
 
 .p-info-3 {
 	background-color: var(--accent-3);
+	color: var(--whiteblock-text);
 }
 
 .definition-nav, .interaction, .design, .development {
@@ -137,6 +141,10 @@ body, html {
 	background-color: var(--accent-3);
 }
 
+.your-career {
+	color: var(--whiteblock);
+}
+
 p {
 	margin: 1em 0;
 	padding: 0.5em 0.5em;
@@ -144,6 +152,19 @@ p {
 
 h1, h2, h3 {
 	text-transform: uppercase;
+}
+
+h2 {
+	color: var(--accent-5);
+	letter-spacing: 0.2em;
+	padding-left: 0.3em;
+}
+
+h3 {
+	color: var(--accent-3);
+	letter-spacing: 0.1em;
+	line-height: 2em;
+	padding-left: 1em;
 }
 
 a {
@@ -170,7 +191,6 @@ footer {
 	.p-info-2 {
 		width: 100%;
 	}
-
 	.p-info-3 {
 		width: 100%;
 	}
@@ -184,7 +204,6 @@ footer {
 	.p-info-2 {
 		width: 50%;
 	}
-
 	.p-info-3 {
 		width: 100%;
 	}
