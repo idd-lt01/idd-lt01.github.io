@@ -117,26 +117,29 @@ body, html {
 	background-color: var(--accent-3);
 }
 
+.definition-nav, .interaction, .design, .development {
+	color: var(--whiteblock-text);
+}
+
+.interaction, .design, .development {
+	padding: 0.1em 0.7em; 
+}
+
 .interaction {
 	background-color: var(--accent-1);
-	padding: 0.1em 0.7em; 
-	color: var(--whiteblock-text);
 }
 
 .design {
 	background-color: var(--accent-2);
-	padding: 0.1em 0.7em; 
-	color: var(--whiteblock-text);
 }
 
 .development {
 	background-color: var(--accent-3);
-	padding: 0.1em 0.7em; 
-	color: var(--whiteblock-text);
 }
 
 p {
 	margin: 1em 0;
+	padding: 0.5em 0.5em;
 }
 
 h1, h2, h3 {
