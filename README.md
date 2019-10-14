@@ -1,7 +1,13 @@
-# George Brown Interaction Design and Development Website Redesign in favour for future students
+# George Brown College
+## Interaction Design and Development Website Redesign
+My inspiration for this re-design was to highlight the beautiful new building located on Lower Jarvis. 
+I wanted to highlight that the program is specialized and multidisciplinary.
+Another main design component of my redesign was to explore Interaction, Design, and Development individually. 
+In my first year at George brown, and to this day, we discuss what it means to be an Interaction Designer; 
+And I think that exploring each word and its meaning can provide someone an understanding of what it means. 
 
 
-#Design Guide:
+# Design Guide:
 
 CSS Colours
 	--background: #313156;
@@ -16,7 +22,7 @@ CSS Colours
 	--whiteblock-text: #000;
 
 
-Program Information References and Other: 
+# Program Information References and Other: 
 
 https://www.georgebrown.ca/uploadedfiles/Program_Roadmap/2018-2019/Arts,%20Design%20and%20Information%20Technology/G103-2018-2019.pdf
 Referenced on: September 30 2019
