@@ -35,3 +35,7 @@ Definitions from Google, and https://www.sid-israel.org/en/Development-Issues/Wh
 
 Button Styling: https://www.w3schools.com/css/css3_buttons.asp
 
+# Designer
+
+Laica Tolentino 2019 for Interface Development 
+October 14th 2019
